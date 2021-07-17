@@ -1,0 +1,24 @@
+{
+  "name": "Mana Documentations",
+  "version": "0.0.1",
+  "description": "The official guide to using Mana",
+  "main": "index.js",
+  "authors": {
+    "name": "Shindou Mihou",
+    "email": "kokocrunchsh@gmail.com"
+  },
+  "repository": "/Mana Documentations",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "vuepress": "^1.5.3",
+    "watchpack": "^1.6.1"
+  },
+  "dependencies": {
+    "vuepress-theme-yuu": "^3.1.1"
+  }
+}
