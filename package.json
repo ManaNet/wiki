@@ -1,5 +1,5 @@
 {
-  "name": "Mana Documentations",
+  "name": "mana-wiki",
   "version": "0.0.1",
   "description": "The official guide to using Mana",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "name": "Shindou Mihou",
     "email": "kokocrunchsh@gmail.com"
   },
-  "repository": "/Mana Documentations",
+  "repository": "https://github.com/ManaNet/wiki",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
