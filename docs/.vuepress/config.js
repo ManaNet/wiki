@@ -1,8 +1,12 @@
 module.exports = {
   title: 'Mana',
-  description: 'The official Guide to using Mana.',
+  description: 'The wiki or guide to using Mana, this is where we explain how some categories or commands of Mana works with a few image examples for most of the pages to help you get started in using Mana as quickly and smoothly as possible!',
   head: [
-    ['link', { rel: 'icon', href: 'https://cdn.manabot.fun/icon.ico' }]
+    ['link', { rel: 'icon', href: 'https://cdn.manabot.fun/icon.ico' }],
+    ['meta', { name: 'theme-color', content: '#5dade2'}],
+    ['meta', { name: 'og:image', content: 'https://cdn.manabot.fun/images/Mana.png'}],
+    ['meta', { name: 'og:description', content: 'The wiki or guide to using Mana, this is where we explain how some categories or commands of Mana works with a few image examples for most of the pages to help you get started in using Mana as quickly and smoothly as possible!'}],
+    ['meta', { name: 'og:title', content: 'Mana - Wiki'}]
   ],
   theme: 'yuu',
   themeConfig: {
