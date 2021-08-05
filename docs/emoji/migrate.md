@@ -38,17 +38,5 @@ steal [emoji/s] --name [name]
 
 > The --name option will set all the emojis that will be added's name into what is defined.
 
-## :watch: Your image too large?
-
-In case your image is far above 256 kilobytes, we offer a free compression service which can be ran multiple times for free.
-
-```
-compress
-```
-
-> Run this command while attaching the image.
-
-![Compress](https://media.discordapp.net/attachments/775601335931240459/854617218923233290/unknown.png?width=454&height=653)
-
 ## :newspaper: Important Notes
 The first method where you mention the emoji attached requires you have to **NITRO** which is a Discord limitation. You can ask a friend to spam emojis for you and use the last method which is replying to each spammed emoji which is a bypass.
