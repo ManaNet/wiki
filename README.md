@@ -13,3 +13,6 @@ at port 8080 which you can then view the changes realtime.
 ```npm
 npm run dev
 ```
+
+## :package: Build status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01d7354b-2de2-40b1-acf0-bb2fc5f95f34/deploy-status)](https://app.netlify.com/sites/fervent-murdock-049285/deploys)
